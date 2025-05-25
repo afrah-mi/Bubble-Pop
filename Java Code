@@ -1,4 +1,4 @@
-int diam = 10;  
+int diam = 10;   
 float centerX, centerY; 
 
 void setup() {
